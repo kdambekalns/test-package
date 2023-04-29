@@ -1,0 +1,7 @@
+{
+    "name": "kdambekalns/test-package",
+    "description": "",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
