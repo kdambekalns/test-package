@@ -3,5 +3,8 @@
     "description": "",
     "license": "MIT",
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "require": {
+        "kdambekalns/test-package-2": "self.version"
+    }
 }
